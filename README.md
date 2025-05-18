@@ -1,43 +1,50 @@
 # Olá, eu sou o Biel 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e especialmente por **Inteligência Artificial**.  
-Meu objetivo é crescer na área de TI, focando em desenvolvimento de software e projetos práticos que fazem a diferença.
+Sou um desenvolvedor em início de carreira, apaixonado por tecnologia e inteligência artificial. Estou focado em aprender, crescer e criar projetos práticos que ajudem a resolver problemas reais.
+
+## 🚀 Sobre mim
+
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Apaixonado por Inteligência Artificial, aprendizado de máquina e automação.
+- Interesse em Redes e Segurança.
+- Curioso e dedicado, sempre buscando novos desafios para evoluir como profissional.
+
+## 🛠 Projetos principais
+
+### Previsão do Tempo
+- Aplicação Python que consome API de previsão do tempo.
+- Interface simples em HTML/CSS para exibição dos dados.
+- Prática com requisições HTTP e manipulação de dados JSON.
+
+### Gerador de Senhas
+- Gerador seguro de senhas com interface gráfica em Tkinter.
+- Geração personalizada com opções de tamanho e tipos de caracteres.
+- Projeto para fortalecer conhecimentos em Python e interfaces desktop.
+
+### Chatbot
+- Chatbot em Python com respostas personalizadas e interativas.
+- Uso de lógica condicional para simular conversas simples.
+- Aprimoramento da comunicação e experiência do usuário.
+
+## 💡 Habilidades e tecnologias
+
+- Python (Tkinter, requests, manipulação de arquivos)
+- HTML, CSS (básico, para interface web simples)
+- Uso de APIs REST
+- Controle de versões com Git e GitHub
+- Conhecimento em lógica de programação e desenvolvimento de software
+- Suporte técnico Nível 1, redes, ferramentas de acesso remoto.
+
+## 🎯 Próximos passos
+
+- Continuar aprimorando meus projetos atuais e publicar novos no GitHub.
+- Aprender frameworks web para tornar minhas aplicações mais robustas.
+- Explorar mais profundamente o universo da Inteligência Artificial.
+- Buscar oportunidades para aplicar meus conhecimentos em projetos reais.
 
 ---
 
-## Sobre mim
+Estou aberto a colaborações, feedbacks e novas oportunidades. Vamos crescer juntos!
 
-- 💻 Desenvolvimento com foco em Python, criação de ferramentas úteis como geradores de senha, chatbots e automações.  
-- 🤖 Interesse especial em IA, machine learning e suas aplicações para resolver problemas reais.  
-- 🎯 Determinado a conquistar meu espaço na área de tecnologia, sempre aprendendo e evoluindo.  
-- 📚 Estudante dedicado, buscando unir teoria e prática para entregar resultados de qualidade.  
-- 🚀 Sempre aberto a novos desafios e oportunidades de colaboração.
+Teste de atualização para GitHub - confirmação.
 
----
-
-## Tecnologias & Ferramentas
-
-| Linguagens      | Frameworks / Bibliotecas | Ferramentas            |
-| --------------- | ------------------------ | ---------------------- |
-| Python          | Tkinter, PyInstaller     | Git, GitHub, VS Code   |
-| HTML, CSS, JS   |                          |                        |
-| Java (início)   |                          |                        |
-| C# (início)     |                          |                        |
-
----
-
-## Projetos em destaque
-
-- [Gerador de Senhas](https://github.com/Biel-prog/gerador_senhas) – Aplicativo com interface gráfica para criação de senhas seguras.  
-- [Chatbot simples](https://github.com/Biel-prog/chatbot) – Assistente interativo com respostas personalizadas.
-
----
-
-## Contato
-
-Sinta-se à vontade para me chamar e trocar ideias!  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu_usuario) | 📧 seu.email@exemplo.com
-
----
-
-Obrigado por visitar meu perfil! 👊
