@@ -46,5 +46,6 @@ Sou um desenvolvedor em início de carreira, apaixonado por tecnologia e intelig
 
 Estou aberto a colaborações, feedbacks e novas oportunidades. Vamos crescer juntos!
 
-Teste de atualização para GitHub - confirmação.
+## Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gabriel-rodrigues-a24663348)
