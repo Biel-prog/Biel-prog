@@ -28,11 +28,11 @@ Sou um desenvolvedor em início de carreira, apaixonado por tecnologia e intelig
 
 ## 💡 Habilidades e tecnologias
 
-- Python (Tkinter, requests, manipulação de arquivos)
-- HTML, CSS (básico, para interface web simples)
-- Uso de APIs REST
-- Controle de versões com Git e GitHub
-- Conhecimento em lógica de programação e desenvolvimento de software
+- Python (Tkinter, requests, manipulação de arquivos).
+- HTML, CSS (básico, para interface web simples).
+- Uso de APIs REST.
+- Controle de versões com Git e GitHub.
+- Conhecimento em lógica de programação e desenvolvimento de software.
 - Suporte técnico Nível 1, redes e ferramentas de acesso remoto.
 
 ## 🎯 Próximos passos
