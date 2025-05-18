@@ -33,7 +33,7 @@ Sou um desenvolvedor em início de carreira, apaixonado por tecnologia e intelig
 - Uso de APIs REST
 - Controle de versões com Git e GitHub
 - Conhecimento em lógica de programação e desenvolvimento de software
-- Suporte técnico Nível 1, redes, ferramentas de acesso remoto.
+- Suporte técnico Nível 1, redes e ferramentas de acesso remoto.
 
 ## 🎯 Próximos passos
 
