@@ -1,4 +1,4 @@
-# Olá, eu sou o Biel 👋
+# Olá, eu sou o Gabriel 👋
 
 Sou um desenvolvedor em início de carreira, apaixonado por tecnologia e inteligência artificial. Estou focado em aprender, crescer e criar projetos práticos que ajudem a resolver problemas reais.
 
